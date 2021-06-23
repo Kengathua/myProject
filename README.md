@@ -1,0 +1,2 @@
+# myProject
+Setting up git 
